@@ -1,0 +1,161 @@
+.centro{
+   display: flex;
+   flex-direction: row;
+
+   width: 100%;
+  
+  
+}
+
+.imagen-centro img {
+    margin-left: 200px;
+;
+ 
+}
+   
+
+    
+    
+
+
+.texto-foto h1{
+margin-left: 200px;
+   
+  margin-top: 120px;
+ color: beige;
+font-size: larger;
+
+}
+.texto-azul{
+    color: rgb(36, 183, 224);
+}
+.texto1{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: aliceblue;
+font-size:xx-large;
+margin-top: 110px;
+
+display: flex;
+    flex-direction: column;  
+    justify-content: left;
+    
+    width: 790px; 
+    height: 360px; 
+    padding: 30px; 
+
+}
+
+
+.texto1, .texto2 {
+    text-align: left;
+    margin: 10px; 
+    
+}
+
+.codepen input{
+    background-color: #3f443f;
+    height: 60px;
+    width: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     border-radius: 2px;
+  
+  border-color: rgb(150, 150, 150);
+    color: white; 
+  
+    cursor: pointer; 
+    border-radius: 1px;
+    font-size: 1.6em;
+    margin-top: 30px;
+  opacity: 150%;
+  
+}
+
+
+
+
+.codepen{
+    margin-left: 10px;
+ display: flex;
+ 
+}
+
+
+
+
+
+
+.social{
+   
+font-weight: bold;
+
+}
+
+.boton-centro input[type="boton"]{
+    background-color: #4bcf56;
+    height: 60px;
+    width: 240px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+/*      
+    font-weight: bold; */
+    border: none; 
+    color: rgb(0, 0, 0); 
+    padding: 14px 28px; 
+    cursor: pointer; 
+    border-radius: 5px;
+    font-size: 1.8em;
+    
+}
+.boton-centro input[type="boton2"]{
+    background-color: #000000;
+    height: 60px;
+    width: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+    /* font-weight: bold; */
+    border: none; 
+    color: white; 
+    padding: 14px 28px; 
+    cursor: pointer; 
+    border-radius: 5px;
+    font-size: 1.8em;
+   
+
+}
+.boton-centro {
+    display: flex;
+    align-items: center;
+
+margin-left: 30px;
+}
+
+.tabla tr {
+    background-color: #3f443f;
+    
+ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+  
+ 
+    color: white; 
+  
+    cursor: pointer; 
+    
+
+  opacity: 150%;
+  
+}
+
+.tabla td{
+  
+    width: 430px;
+    padding: 14px 28px; 
+   
+   
+    border-radius: 5px;
+    font-size: 1.6em;
+    
+}
+.tabla{
+   margin-bottom: 70PX;
+}
